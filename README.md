@@ -1,2 +1,2 @@
 # Pong do Naruto
- Jogo do pong desenvolvido com javascript puro e canvas. Exatamente como o pong comum, porém com algumas funcionalidades e efeito sonoros do naruto
+ Jogo do pong desenvolvido com javascript puro e canvas. Exatamente como o pong comum, porém com algumas funcionalidades e efeito sonoros do naruto. Cada vez que a bola é rebatida, a mesma ganha velocidade e depois de alcançar certa velocidade, a bola se transforma num rasengan. Cada personagem tem seu poder especial, se você marcar 10 pontos, então será capaz de usar sua habilidade especial. DEMO : https://pong-naruto.web.app
